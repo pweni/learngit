@@ -3,3 +3,5 @@ this is a md
 ---  
 create a new branch "dev"    
 this line is after first time of merging  
+do someting in vscode git  
+
